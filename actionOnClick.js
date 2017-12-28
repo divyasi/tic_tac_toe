@@ -41,6 +41,10 @@ const actionOnClick = function() {
   }
 };
 
+const reloadGame = function() {
+  window.location.reload();
+}
+
 const startGame = function() {
   let table = document.getElementById('tic-tac-toe');
   table.onclick = actionOnClick;
