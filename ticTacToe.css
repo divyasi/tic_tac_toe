@@ -9,13 +9,17 @@ td {
   border: 1px solid black;
   text-align: center;
   font-size: 50px;
+  background-color: #cfecf7;
 }
 td:hover {
-  background-color: steelBlue;
+  background-color: #62c1e5;
 }
 
 #reset {
   height: 40px;
   width: 150px;
   font-size: 20px;
+  border-radius: 10px;
+  border-width: 2px;
+  background-color: lightgrey;
 }
