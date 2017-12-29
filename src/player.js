@@ -32,4 +32,4 @@ Player.prototype.hasPlayerWon = function() {
   })
 };
 
-// module.exports = Player;
+module.exports = Player;
