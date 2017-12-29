@@ -6,7 +6,7 @@ test['hasMove should recongnise true wheather move is already present'] = functi
   let move = 1;
   let moves = [1,2,3];
   assert.isOk(hasMove(move),true);
-}
+};
 
 
 exports.test = test;
